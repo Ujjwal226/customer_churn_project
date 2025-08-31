@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ukhan/OneDrive/Desktop/customer_churn_project/mlruns/911247288618503662/832be31dea7d46e9b43d829f9b36a84c/artifacts
+end_time: 1756600957928
+entry_point_name: ''
+experiment_id: '911247288618503662'
+lifecycle_stage: active
+run_id: 832be31dea7d46e9b43d829f9b36a84c
+run_name: spiffy-sponge-2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756600920810
+status: 3
+tags: []
+user_id: ukhan

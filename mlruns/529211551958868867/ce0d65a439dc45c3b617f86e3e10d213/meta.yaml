@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ukhan/OneDrive/Desktop/customer_churn_project/mlruns/529211551958868867/ce0d65a439dc45c3b617f86e3e10d213/artifacts
+end_time: 1756658021445
+entry_point_name: ''
+experiment_id: '529211551958868867'
+lifecycle_stage: active
+run_id: ce0d65a439dc45c3b617f86e3e10d213
+run_name: unique-ox-393
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756657975974
+status: 3
+tags: []
+user_id: ukhan

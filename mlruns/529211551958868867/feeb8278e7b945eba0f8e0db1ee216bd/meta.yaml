@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ukhan/OneDrive/Desktop/customer_churn_project/mlruns/529211551958868867/feeb8278e7b945eba0f8e0db1ee216bd/artifacts
+end_time: 1756656131387
+entry_point_name: ''
+experiment_id: '529211551958868867'
+lifecycle_stage: active
+run_id: feeb8278e7b945eba0f8e0db1ee216bd
+run_name: colorful-wasp-433
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756656094686
+status: 3
+tags: []
+user_id: ukhan

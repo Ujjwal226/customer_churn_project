@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/ukhan/OneDrive/Desktop/customer_churn_project/mlruns/529211551958868867/models/m-488b9fdb3649407aa2e3dcbe7b8ea993/artifacts
+creation_timestamp: 1756658011064
+experiment_id: '529211551958868867'
+last_updated_timestamp: 1756658020950
+model_id: m-488b9fdb3649407aa2e3dcbe7b8ea993
+model_type: null
+name: model
+source_run_id: ce0d65a439dc45c3b617f86e3e10d213
+status: 2
+status_message: null

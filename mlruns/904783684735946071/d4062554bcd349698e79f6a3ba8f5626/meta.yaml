@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ukhan/OneDrive/Desktop/customer_churn_project/mlruns/904783684735946071/d4062554bcd349698e79f6a3ba8f5626/artifacts
+end_time: 1756659167519
+entry_point_name: ''
+experiment_id: '904783684735946071'
+lifecycle_stage: active
+run_id: d4062554bcd349698e79f6a3ba8f5626
+run_name: bouncy-ape-212
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756659156925
+status: 4
+tags: []
+user_id: ukhan

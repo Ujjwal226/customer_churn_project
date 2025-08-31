@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ukhan/OneDrive/Desktop/customer_churn_project/mlruns/170070098097567505/b9280624244547dc888126bccf4200da/artifacts
+end_time: 1756600227997
+entry_point_name: ''
+experiment_id: '170070098097567505'
+lifecycle_stage: active
+run_id: b9280624244547dc888126bccf4200da
+run_name: stately-shrike-942
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756600208372
+status: 3
+tags: []
+user_id: ukhan

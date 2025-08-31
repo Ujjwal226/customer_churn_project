@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ukhan/OneDrive/Desktop/customer_churn_project/mlruns/904783684735946071/bf82621e1cad432dbea074b600bcb712/artifacts
+end_time: 1756658883082
+entry_point_name: ''
+experiment_id: '904783684735946071'
+lifecycle_stage: active
+run_id: bf82621e1cad432dbea074b600bcb712
+run_name: nebulous-bear-672
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756658872847
+status: 4
+tags: []
+user_id: ukhan

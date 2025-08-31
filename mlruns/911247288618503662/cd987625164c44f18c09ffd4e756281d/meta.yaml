@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ukhan/OneDrive/Desktop/customer_churn_project/mlruns/911247288618503662/cd987625164c44f18c09ffd4e756281d/artifacts
+end_time: 1756600455932
+entry_point_name: ''
+experiment_id: '911247288618503662'
+lifecycle_stage: active
+run_id: cd987625164c44f18c09ffd4e756281d
+run_name: honorable-moth-902
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756600424023
+status: 3
+tags: []
+user_id: ukhan

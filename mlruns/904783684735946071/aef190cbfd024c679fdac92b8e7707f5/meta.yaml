@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ukhan/OneDrive/Desktop/customer_churn_project/mlruns/904783684735946071/aef190cbfd024c679fdac92b8e7707f5/artifacts
+end_time: 1756659083038
+entry_point_name: ''
+experiment_id: '904783684735946071'
+lifecycle_stage: active
+run_id: aef190cbfd024c679fdac92b8e7707f5
+run_name: auspicious-yak-392
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756659072516
+status: 4
+tags: []
+user_id: ukhan

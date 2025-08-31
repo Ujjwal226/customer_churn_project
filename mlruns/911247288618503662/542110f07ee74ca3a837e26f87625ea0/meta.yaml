@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ukhan/OneDrive/Desktop/customer_churn_project/mlruns/911247288618503662/542110f07ee74ca3a837e26f87625ea0/artifacts
+end_time: 1756601281772
+entry_point_name: ''
+experiment_id: '911247288618503662'
+lifecycle_stage: active
+run_id: 542110f07ee74ca3a837e26f87625ea0
+run_name: orderly-smelt-114
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756601240539
+status: 3
+tags: []
+user_id: ukhan

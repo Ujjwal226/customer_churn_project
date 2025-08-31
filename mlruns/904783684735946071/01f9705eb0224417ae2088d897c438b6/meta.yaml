@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ukhan/OneDrive/Desktop/customer_churn_project/mlruns/904783684735946071/01f9705eb0224417ae2088d897c438b6/artifacts
+end_time: 1756659395196
+entry_point_name: ''
+experiment_id: '904783684735946071'
+lifecycle_stage: active
+run_id: 01f9705eb0224417ae2088d897c438b6
+run_name: omniscient-stork-654
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756659386638
+status: 3
+tags: []
+user_id: ukhan

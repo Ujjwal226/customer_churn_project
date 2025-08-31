@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ukhan/OneDrive/Desktop/customer_churn_project/mlruns/904783684735946071/dae0a061bbc04939990375e0e200c289/artifacts
+end_time: 1756599908119
+entry_point_name: ''
+experiment_id: '904783684735946071'
+lifecycle_stage: active
+run_id: dae0a061bbc04939990375e0e200c289
+run_name: bright-wolf-724
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756599902687
+status: 3
+tags: []
+user_id: ukhan
